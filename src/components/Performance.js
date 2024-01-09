@@ -12,7 +12,7 @@ const Performance = () => {
             </div>
         </div>
         <div>
-            <img className='h-60' 
+            <img className='h-60 w-full' 
             src={graph} alt='Graph'/>
         </div>
     </div>
